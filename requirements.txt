@@ -1,0 +1,14 @@
+# Core
+langchain==0.3.25
+langchain-groq==0.3.2
+langchain-community==0.3.23
+
+# Vector store & embeddings
+faiss-cpu==1.9.0.post1
+sentence-transformers==3.4.1
+
+# UI
+streamlit==1.44.1
+
+# Config
+python-dotenv==1.0.1
